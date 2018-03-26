@@ -1,6 +1,6 @@
 <?php
 
-namespace Antoniost\UtilStringBundle\Lib;
+namespace Ast\UtilStringBundle\Lib;
 
 
 class Slugg
