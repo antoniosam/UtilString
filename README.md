@@ -1,4 +1,4 @@
-Demo    
+Util String    
 ===============
 
-Dummy Repository for example
+Functions php strings
