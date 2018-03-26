@@ -1,6 +1,6 @@
 <?php
 
-namespace Ast\UtilStringBundle\Lib;
+namespace Ast\UtilStringBundle;
 
 
 class Base62
