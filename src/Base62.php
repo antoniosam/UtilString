@@ -1,6 +1,6 @@
 <?php
 
-namespace Ast;
+namespace Ast\utilstring;
 
 class Base62
 {
