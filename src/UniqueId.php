@@ -15,4 +15,10 @@ class UniqueId
         $unique = Base62::codeNumber($r);
         return $key . "-" . $unique;
     }
+
+    static function timemd5(){
+        $string  = ((int)microtime(true)).'_'.rand(100,999);
+        return  md5($string);
+
+    }
 }
